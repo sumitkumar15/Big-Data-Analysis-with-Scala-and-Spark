@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/sumit/Desktop/Spark Assignments/stackoverflow/src/main/resources/anime,/home/sumit/Desktop/Spark Assignments/stackoverflow/target/scala-2.11/classes/anime)[0m
+[0m[[0mdebug[0m] [0m	(/home/sumit/Desktop/Spark Assignments/stackoverflow/src/main/resources/stackoverflow,/home/sumit/Desktop/Spark Assignments/stackoverflow/target/scala-2.11/classes/stackoverflow)[0m
+[0m[[0mdebug[0m] [0m	(/home/sumit/Desktop/Spark Assignments/stackoverflow/src/main/resources/anime/anime.csv,/home/sumit/Desktop/Spark Assignments/stackoverflow/target/scala-2.11/classes/anime/anime.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/sumit/Desktop/Spark Assignments/stackoverflow/src/main/resources/stackoverflow/stackoverflow.csv,/home/sumit/Desktop/Spark Assignments/stackoverflow/target/scala-2.11/classes/stackoverflow/stackoverflow.csv)[0m

@@ -1,0 +1,394 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+26 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageSummaryTyped$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class
+binary dependencies:
+6 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+26 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$5
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$6
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageSummaryTyped$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+225 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator2
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> :::
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Boolean
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DOUBLE
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double2double
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Encoders
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> col
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> colSum
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> elem
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> f
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> field1
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fieldname
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fields
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> filter
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDf
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fromSeq
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getAs
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isEmpty
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isPresent
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> k
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> l
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> leisureList
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> leisurefields
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> list
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> lit
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> lst
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> p
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryList
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryfields
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> r
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sort
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> status
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> totalmins
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unary_!
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> word
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingList
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingfields
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+26 items
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$5.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$6.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageSummaryTyped$1.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1503385674000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class -> lastModified(1503385674000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1503385674000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1503385673000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class -> lastModified(1503385674000)
+/home/sumit/Desktop/Spark Assignments/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class -> lastModified(1503385674000)
+source stamps:
+1 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(3f8e628ac0d7c90686915a3f3e62d56e7bc862e5)
+binary stamps:
+6 items
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1429490352000)
+class names:
+6 items
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.StructField
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.expressions.scalalang.typed$
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.Serializable
+/home/sumit/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AonNxAH4AmwF1cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ADt1cQB+AJMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AoXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCqeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCWdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgChc3EAfgCwdAAFQXJyYXlxAH4AtnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCwdAAGU3RyaW5nc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQABGphdmFzcQB+ALx0AARsYW5ncQB+AMFwc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2cHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAWdGltZXVzYWdlLlRpbWVVc2FnZVJvd3VxAH4AkwAAAAB+cQB+AJV0AAhDbGFzc0RlZnVxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+ANUAAAAGc3EAfgCwdAAMU2VyaWFsaXphYmxlc3EAfgC0c3EAfgC3dXEAfgC6AAAAAnNxAH4AvHEAfgC/cQB+AMFzcQB+ALBxAH4A+nNxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALxxAH4A3XNxAH4AvHQAAmlvcQB+AMFzcQB+ALB0AAdQcm9kdWN0cQB+APtzcQB+ALB0AAZFcXVhbHNxAH4A+3NxAH4AsHEAfgDlc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8cQB+AN9xAH4AwXNxAH4AsHEAfgDncQB+APtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXgjEyEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJL2hvbWUvc3VtaXQvRGVza3RvcC9TcGFyayBBc3NpZ25tZW50cy90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD+OYorA18kGhpFaPz5i1W57yGLl
+external apis:
+0 items
+source infos:
+1 items
+/home/sumit/Desktop/Spark Assignments/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe8fRhp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXfspy151cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXfsuTwB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXfujEpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXgivUd91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXgjAryh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXgjEyEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL3N1bWl0L0Rlc2t0b3AvU3BhcmsgQXNzaWdubWVudHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
